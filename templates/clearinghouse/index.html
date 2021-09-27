@@ -1,4 +1,14 @@
 {% extends 'clearinghouse/base.html' %}
 {% block content %}
 Clearinghouse app is running!
+<br><br>
+<p>
+	Entries in Court: {{num_courts}}
+</p>
+<p>
+	Entries in Person: {{num_people}}
+</p>
+<p>
+	Entries in PersonCourt: {{num_people_courts}}
+</p>
 {% endblock %}
