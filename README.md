@@ -10,7 +10,7 @@ The purpose of this coding task is to demonstrate your abilities with Python, Dj
 
 To keep your submission private, you should create your own private repository that [mirrors this one](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository).
 
-1. [Create a new GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
+1. [Create a new GitHub repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository). Make sure it's private (so that others can't copy your work).
 2. Create a bare clone of this repository:
 
 ```bash
