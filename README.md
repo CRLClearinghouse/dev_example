@@ -1,7 +1,5 @@
 # Civil Rights Litigation Clearinghouse - Coding Task
 
-The [Civil Rights Litigation Clearinghouse](https://clearinghouse.net), a project of the University of Michigan Law School, is seeking a part-time, remote (within the U.S.) full-stack developer. For more information about the role, see [the job posting](https://careers.umich.edu/job_detail/204257/full_stack_developer).
-
 The purpose of this coding task is to demonstrate your abilities with Python, Django, and dealing with database data. It's intended to take 1-2 hours.
 
 # Setup
@@ -102,5 +100,5 @@ As mentioned above, we don't intend for you to spend more than 1-2 hours on this
    1. The counts of `Court`, `Person`, and `PersonCourt` entries that display when looking at http://127.0.0.1:8000/.
    2. Any testing of your code.
    3. Any explanation of design choices you think need explanation.
-3. From your repository's page, under Settings > Manage Access, add MargoSchlanger and laurenyu as collaborators so that we can see your submission.
+3. From your repository's page, under Settings > Manage Access, add MargoSchlanger and jasminegump as collaborators so that we can see your submission.
 4. Notify us by emailing mschlan [at] umich [dot] edu.
